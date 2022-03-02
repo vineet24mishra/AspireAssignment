@@ -13,7 +13,6 @@
  # Run "yarn android" to run project in android
  # Can use any IDE like VS Code, Atom
 
-
  # Project flow
   # Five bottom tabs will be on the screen once project gets started.
   # Click on 2nd tab Debit card UI of that tab will be shown.

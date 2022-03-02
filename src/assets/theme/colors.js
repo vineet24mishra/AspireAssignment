@@ -1,0 +1,24 @@
+const Colors = {
+  //app colors
+  PRIMARY: '#01D167',
+  SECONDARY: '#0C365A',
+  MUTED: '#A8A8A8',
+  WHITE: '#FFFFFF',
+
+  HEADER_BG_COLOR: 'rgba(118, 118, 128, 0.12)',
+  SEARCH_BOX_BG: '#d0d0d0',
+
+  //input
+  DIVIDER: '#A8A8A8',
+  //common
+  BLACK: '#000000',
+
+  DABIT_OPTION_TITLE_COLOR: '#25345F',
+  DABIT_OPTION_DESCRIPTION_COLOR: '#222222',
+  DIVIDER_COLOR: '#E5E5E5',
+  WEEKLY_TEXT_COLOR: '#22222266',
+  AMOUNT_OPTION_BG: '#E5E5E5',
+  DISABLE_BUTTON_BG: '#EEEEEE'
+};
+
+export default Colors;
